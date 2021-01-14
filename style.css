@@ -1,24 +1,15 @@
 body {
-    margin: 0;
-    padding: 0;
-}
-.container {
-
+   margin: 0;
 }
 
-header {
-    background: lightcoral;
-    
-}
+.container{
+    width: 100vw;
+   height: 100vh;
 
-main{
-    background: white;
-}
+   font-family: sans-serif;
+   font-weight: bold;
+   font-size: 20px;
 
-aside {
-    background: grey;
-}
 
-footer{
-    background: darkgray;
+   display: grid
 }
