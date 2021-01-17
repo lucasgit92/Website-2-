@@ -48,6 +48,10 @@ body, ul, li, p  {
  .menu {
    display: flex;
  }
+
+ .menu li {
+   margin-left: 20px;
+ }
  .content01 {
      grid-row-start: 2;
      grid-row-end:  span 2;
