@@ -39,6 +39,7 @@ body, ul, li, p  {
      grid-column-end: 4;
      background: #000000;
      display: flex;
+     justify-content: space-between;
  }
  .content01 {
      grid-row-start: 2;
