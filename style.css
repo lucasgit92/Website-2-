@@ -44,6 +44,10 @@ body, ul, li, p  {
      padding: 20px;
 
  }
+
+ .menu {
+   display: flex;
+ }
  .content01 {
      grid-row-start: 2;
      grid-row-end:  span 2;
