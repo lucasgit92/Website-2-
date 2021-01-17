@@ -50,7 +50,12 @@ body, ul, li, p  {
  }
 
  .menu li {
-   margin-left: 20px;
+   margin-left: 10px;
+ }
+
+ .menu li a {
+   display: block;
+   padding: 10px;
  }
  .content01 {
      grid-row-start: 2;
