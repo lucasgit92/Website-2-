@@ -87,11 +87,20 @@ body, ul, li, p  {
 .content-small1{
   display: grid;
   grid-column: span 1;
+  background-image:url('./images/people-2591948_1920.jpg');
+  background-repeat: no-repeat;
+  
+  background-size: cover;
+  
+  width:150%;
+  height:100%;
 }
 .content-small2{
   display: grid;
   grid-column: span 2;
 }
+
+
 
 .content-small2, p{
   
@@ -99,7 +108,7 @@ body, ul, li, p  {
   font-size: 20px;
   font-family: sans-serif;
   padding-top: 50px;
-  padding-right: 50px;
+  
 }
 
  .footer{
